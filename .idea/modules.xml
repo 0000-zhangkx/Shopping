@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/gcs/Shopping/Shopping.iml" filepath="D:/gcs/Shopping/Shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-1/idea-1.iml" filepath="$PROJECT_DIR$/../idea-1/idea-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wx.iml" filepath="$PROJECT_DIR$/wx.iml" />
+    </modules>
+  </component>
+</project>
